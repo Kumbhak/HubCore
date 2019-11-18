@@ -1,0 +1,41 @@
+#
+# Welcome to the HubCore config file
+#
+#For bug reports visit the spigot you downloaded this plugin from!
+#
+Prefix: "&0[&4HubCore&0]"
+
+#The messages are split into 2 sections... First and second. The first part comes before the name and second after
+#Example "&5Welcome to the SERVERNAME Networks! PLAYER We hope you enjoy your stay!"
+#Be sure to leave the spaces so its not all funky looking.
+#To change the color, simply change the number! Pretty self explanatory I thought!
+Join:
+  Message:
+    Line1: "&3===================="
+    Line2: ""
+    Line3: "&5Welcome to the EXAMPLE Network!"
+    Line4: ""
+    Line5: "&3===================="
+Leave:
+  Leave_Message_Color: "&5"
+  Leave_Message: "Wow your just gonna leave us like that "
+  Leave_Message_End: " tis a shame tis a shame."
+
+Donation:
+  Color: "&8"
+  Main_Message: "To donate simply visit "
+  Link: "&3www.example.com"
+
+#IGNORE BELOW THEESE ARE FOR FUTURE FEATURES
+Player:
+  Walk_Speed: "2"
+
+PreferencesGUI:
+  Border_Color_PREF:
+
+#
+# Ignore below
+#
+Version: 1
+Log_Lag_Over_Milis: 100
+Debug: []

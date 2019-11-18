@@ -1,0 +1,6 @@
+name: ${project.name}
+version: ${project.version}
+main: ${main.class}
+author: HadesDC
+api-version: 1.13
+permissions:
