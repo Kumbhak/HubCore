@@ -53,7 +53,7 @@
         <main.class>com.hadesdc.HubCore.HubCore</main.class>
 
         <!-- The Foundation version - change to latest version from https://github.com/kangarko/Foundation/releases -->
-        <foundation.version>5.1.3</foundation.version>
+        <foundation.version>5.9.5</foundation.version>
 
         <!-- The Java version your plugin uses, see bstats.org for what most servers have and use that -->
         <java.version>1.8</java.version>

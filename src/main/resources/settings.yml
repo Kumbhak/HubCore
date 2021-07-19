@@ -18,23 +18,30 @@ Join:
     Line5: "&3===================="
 Leave:
   Leave_Message_Color: "&5"
-  Leave_Message: "Wow your just gonna leave us like that "
+  Leave_Message: "Wow your just gonna leave us like that!"
   Leave_Message_End: " tis a shame tis a shame."
 
 Donation:
   Color: "&8"
-  Main_Message: "To donate simply visit "
+  Main_Message: "To donate simply visit our donation site "
   Link: "&3www.example.com"
-
-#IGNORE BELOW THEESE ARE FOR FUTURE FEATURES
+#
+#IGNORE BELOW THEESE ARE FOR FUTURE FEATURES, THINK OF IT AS A TEASER OF SORTS
+#Theese do Nothing at the moment!
+#
 Player:
   Walk_Speed: "2"
+  Double_jump: "true"
+
+World:
+  Jump_Pad: "true"
+  Glow_Effect: "false"
 
 PreferencesGUI:
   Border_Color_PREF:
 
 #
-# Ignore below
+# Ignore below this is for debug / developer purposes
 #
 Version: 1
 Log_Lag_Over_Milis: 100
